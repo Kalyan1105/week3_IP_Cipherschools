@@ -1,1 +1,1 @@
-# week3_IP_Cipherschools
+# week3-IP-CipherSchools
